@@ -1269,3 +1269,37 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2024.08.27-23.24.48:916][906]LogContentBrowser: Attempting asset rename: NewFolder -> Sounds
 [2024.08.27-23.24.48:917][906]LogContentBrowser: End creating deferred item NewFolder
 [2024.08.27-23.24.59:067][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.08.27-23.26.00:953][537]LogDerivedDataCache: D:/Users/MDS2000626/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.196 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2588 files in 3854 folders with total size 153 MiB.
+[2024.08.27-23.27.13:128][858]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.08.27-23.27.13:228][858]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.08.27-23.27.13:231][858]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.08.27-23.27.13:248][860]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.08.27-23.27.16:615][236]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Character
+[2024.08.27-23.27.16:665][236]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.08.27-23.27.22:399][530]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.08.27-23.27.22:408][530]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.08.27-23.27.22:413][530]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.08.27-23.27.22:419][531]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.08.27-23.27.27:392][ 89]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_CharacterController
+[2024.08.27-23.27.27:397][ 89]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.08.27-23.27.46:901][221]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.08.27-23.30.47:698][ 75]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.08.27-23.30.47:698][ 75]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.08.27-23.31.30:488][682]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Synaptics HD Audio), InstanceID=1
+[2024.08.27-23.31.30:569][682]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3248
+[2024.08.27-23.31.30:841][683]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{60b20d4f-a3a1-4a71-be0a-1fbc48c339c6}, Name=Headphones (Synaptics HD Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=171.31
+[2024.08.27-23.31.30:841][683]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.08.27-23.31.30:843][683]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.08.27-23.34.05:276][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.08.27-23.34.05:290][146]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.030
+[2024.08.27-23.34.05:292][146]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OurStuff/Blueprints/BP_Character] ([2] browsable assets)...
+[2024.08.27-23.34.05:292][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurStuff/Blueprints/BP_Character]
+[2024.08.27-23.34.05:298][146]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.006457 seconds
+[2024.08.27-23.34.05:355][146]LogSerialization: UsePackageTrailer: 'true'
+[2024.08.27-23.34.05:372][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurStuff/Blueprints/BP_Character_Auto1
+[2024.08.27-23.34.05:372][146]LogSavePackage: Moving '../../../../../Users/MDS2000626/Prototype4/Prototype4/Saved/BP_Character_Auto15DE097C241E06D3B44A33D9670D38CB2.tmp' to '../../../../../Users/MDS2000626/Prototype4/Prototype4/Saved/Autosaves/Game/OurStuff/Blueprints/BP_Character_Auto1.uasset'
+[2024.08.27-23.34.05:384][146]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OurStuff/Blueprints/BP_CharacterController] ([2] browsable assets)...
+[2024.08.27-23.34.05:384][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurStuff/Blueprints/BP_CharacterController]
+[2024.08.27-23.34.05:389][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurStuff/Blueprints/BP_CharacterController_Auto1
+[2024.08.27-23.34.05:389][146]LogSavePackage: Moving '../../../../../Users/MDS2000626/Prototype4/Prototype4/Saved/BP_CharacterController_Auto1F0BAB8554AAFFC6DFC637087A9791EA4.tmp' to '../../../../../Users/MDS2000626/Prototype4/Prototype4/Saved/Autosaves/Game/OurStuff/Blueprints/BP_CharacterController_Auto1.uasset'
+[2024.08.27-23.34.05:390][146]LogFileHelpers: Auto-saving content packages took 0.100
