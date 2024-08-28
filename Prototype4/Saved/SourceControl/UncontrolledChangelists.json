@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Users/MDS2000626/Prototype4/Prototype4/Content/FirstPerson/Input/IMC_Weapons.uasset",
+				"D:/Users/MDS2000626/Prototype4/Prototype4/Content/FirstPerson/Input/Actions/IA_Shoot.uasset",
+				"D:/Users/MDS2000626/Prototype4/Prototype4/Content/FirstPerson/Input/IMC_Default.uasset",
+				"D:/Users/MDS2000626/Prototype4/Prototype4/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"D:/Users/MDS2000626/Prototype4/Prototype4/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"D:/Users/MDS2000626/Prototype4/Prototype4/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"D:/Users/MDS2000626/Prototype4/Prototype4/Content/OurStuff/Blueprints/BP_Character.uasset",
 				"C:/Users/butgo/Documents/GitHub/Prototype4/Prototype4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset",
 				"C:/Users/butgo/Documents/GitHub/Prototype4/Prototype4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
 				"C:/Users/butgo/Documents/GitHub/Prototype4/Prototype4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset",
